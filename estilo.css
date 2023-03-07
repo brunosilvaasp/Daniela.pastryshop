@@ -15,8 +15,9 @@ background-image: url(fondo\ Daniela\ page.png)  ;}
 .d-grid{
       text-decoration: none;
       border-radius: 20px;
-      
-
-
+}
+#aclaracion{
+      font-family: 'Dancing Script', cursive;
+      text-align: center;
 
 }
